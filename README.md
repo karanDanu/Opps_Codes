@@ -1,1 +1,1 @@
-it is just a practice code 
+This repository is just for practice
